@@ -465,7 +465,7 @@ def show_perspective(imgpath, imgtitle='perspective'):
     printimginfo(tmp_img)
 
 ''' testcase
-g_path='img0.jpg'
+g_path='img0.png'
 #show_gray(g_path)
 show_or(g_path)
 #show_crop(g_path, 0,0,2000,2000)
